@@ -6,8 +6,8 @@ import time
 import discord as ds
 
 
-token = 'OTA3NzAzMjkwNTY3OTkxMzI2.YYrCkA.vPIxuEjV8M3Og2mC5eG8Ghr0GrI'   #bot token for discord
-channel_id = 907708927871950878
+token = 'PLACE TOKEN HERE'   #bot token for discord
+channel_id = 'PLACE CHANNEL ID HERE'
 ip_list = ['169.63.179.247']
 timeout = 10
 
